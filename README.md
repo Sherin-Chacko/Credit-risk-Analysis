@@ -28,6 +28,8 @@ The results for the six machine learning models including their respective balan
 
 ## Naive Random Oversampling
 
+<img width="701" alt="Screen Shot 2022-02-13 at 12 14 18 PM" src="https://user-images.githubusercontent.com/91294352/153766452-6512e082-b5e1-489c-b2b9-59ab66fd76f3.png">
+
 ## SMOTE Oversampling
 
 ## Undersampling
