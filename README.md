@@ -35,6 +35,8 @@ The results for the six machine learning models including their respective balan
 
 ## SMOTE Oversampling
 
+<img width="702" alt="Screen Shot 2022-02-13 at 12 24 42 PM" src="https://user-images.githubusercontent.com/91294352/153766871-59fb7399-7ea0-46ca-ba0c-11a624702c4d.png">
+
 Balanced Accuracy: 0.63
 Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 Recall: High/Low risk = .62/.64
