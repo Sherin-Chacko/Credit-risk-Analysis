@@ -8,11 +8,10 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 1. imbalanced-learn
 2. scikit-learn
 3. RandomOverSampler
-4. SMOTE algorithms
+4. SMOTE algorithm
 5. ClusterCentroids algorithm
-6. SMOTEENN algorithm
-7. BalancedRandomForestClassifier (bias reduction model)
-8. EasyEnsembleClassifier (bias reduction model)
+6. BalancedRandomForestClassifier (bias reduction model)
+7. EasyEnsembleClassifier (bias reduction model)
 
 ## Purpose:
 
@@ -30,15 +29,42 @@ The results for the six machine learning models including their respective balan
 
 <img width="701" alt="Screen Shot 2022-02-13 at 12 14 18 PM" src="https://user-images.githubusercontent.com/91294352/153766452-6512e082-b5e1-489c-b2b9-59ab66fd76f3.png">
 
+1. Balanced Accuracy: 0.66
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .66/.67
+
 ## SMOTE Oversampling
+
+Balanced Accuracy: 0.63
+Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+Recall: High/Low risk = .62/.64
 
 ## Undersampling
 
+
+Balanced Accuracy: 0.63
+Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+Recall: High/Low risk = .63/.40
+
 ## Combination Under-Over Sampling
+
+Balanced Accuracy: 0.51
+Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+Recall: High/Low risk = .70/.57
 
 ## Balanced Random Forest Classifier
 
+Balanced Accuracy: 0.78
+Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+Recall: High/Low risk = .67/.91
+
 ## Easy Ensemble AdaBoost Classifier
+
+
+Balanced Accuracy: 0.92
+Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+Recall: High/Low risk = .91/.94
+
 
 ## Summary:
 
