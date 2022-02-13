@@ -51,6 +51,8 @@ The results for the six machine learning models including their respective balan
 
 ## Combination Under-Over Sampling
 
+<img width="701" alt="Screen Shot 2022-02-13 at 12 32 09 PM" src="https://user-images.githubusercontent.com/91294352/153767109-b12948c2-4834-499e-bc32-c4718b81bf08.png">
+
 1. Balanced Accuracy: 0.51
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .70/.57
