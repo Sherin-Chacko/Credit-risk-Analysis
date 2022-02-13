@@ -59,6 +59,8 @@ The results for the six machine learning models including their respective balan
 
 ## Balanced Random Forest Classifier
 
+<img width="702" alt="Screen Shot 2022-02-13 at 12 33 22 PM" src="https://user-images.githubusercontent.com/91294352/153767164-66a53351-65ef-49ad-a803-fe9d66ca82d9.png">
+
 1. Balanced Accuracy: 0.78
 2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
 3. Recall: High/Low risk = .67/.91
