@@ -37,35 +37,36 @@ The results for the six machine learning models including their respective balan
 
 <img width="702" alt="Screen Shot 2022-02-13 at 12 24 42 PM" src="https://user-images.githubusercontent.com/91294352/153766871-59fb7399-7ea0-46ca-ba0c-11a624702c4d.png">
 
-Balanced Accuracy: 0.63
-Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall: High/Low risk = .62/.64
+1. Balanced Accuracy: 0.63
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .62/.64
 
 ## Undersampling
 
+<img width="702" alt="Screen Shot 2022-02-13 at 12 26 39 PM" src="https://user-images.githubusercontent.com/91294352/153767011-77bcd245-7ea9-4dcb-8234-2947210e4dfc.png">
 
-Balanced Accuracy: 0.63
-Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall: High/Low risk = .63/.40
+1. Balanced Accuracy: 0.63
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .63/.40
 
 ## Combination Under-Over Sampling
 
-Balanced Accuracy: 0.51
-Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall: High/Low risk = .70/.57
+1. Balanced Accuracy: 0.51
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .70/.57
 
 ## Balanced Random Forest Classifier
 
-Balanced Accuracy: 0.78
-Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall: High/Low risk = .67/.91
+1. Balanced Accuracy: 0.78
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .67/.91
 
 ## Easy Ensemble AdaBoost Classifier
 
 
-Balanced Accuracy: 0.92
-Precision: The precision is low for High-risk loans and is high for Low-risk loans.
-Recall: High/Low risk = .91/.94
+1. Balanced Accuracy: 0.92
+2. Precision: The precision is low for High-risk loans and is high for Low-risk loans.
+3. Recall: High/Low risk = .91/.94
 
 
 ## Summary:
