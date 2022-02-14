@@ -3,7 +3,7 @@ Module 17 - Supervised Machine Learning
 
 ## Overview of the loan prediction risk analysis:
 
-Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques were used to train and evaluate models with unbalanced classes. Following are the libraries and algorithms that were used to build and evaluate models using resampling:
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Different techniques were used to train and evaluate models with unbalanced classes. Following are the algorithms that were used to build and evaluate models using resampling:
 
 1. imbalanced-learn
 2. scikit-learn
